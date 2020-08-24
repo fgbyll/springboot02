@@ -48,7 +48,7 @@ public class MyController {
 
     @RequestMapping("/addUser")
 
-    public String tttttt(){
+    public String ttttaaatt(){
 
 
         return "hello";
